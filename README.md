@@ -38,7 +38,7 @@ Nothing groundbreaking here, just another addition to the millions of weather ap
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
